@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+header,
+aside,
+article,
+footer {
+    text-align: center;
+}
+
+#header1 {
+    /* text-align: center; */
+    background-color: yellowgreen;
+    height: 10vh;
+}
+
+section {
+    height: 80vh;
+    /* border: 1px solid; */
+}
+
+aside {
+    /* text-align: center; */
+    background-color: orange;
+    height: 80vh;
+    width: 30vw;
+    float: left;
+}
+
+#header2 {
+    /* text-align: center; */
+    background-color: dodgerblue;
+    height: 10vh;
+}
+
+article {
+    /* text-align: center; */
+    background-color: tomato;
+    height: 60vh;
+}
+
+#footer2 {
+    /* text-align: center; */
+    background-color: dodgerblue;
+    height: 10vh;
+}
+
+#footer1 {
+    /* text-align: center; */
+    background-color: yellowgreen;
+    height: 10vh;
+}
